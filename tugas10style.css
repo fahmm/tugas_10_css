@@ -1,0 +1,24 @@
+*{
+	background-image:  linear-gradient(to top right ,red , white);
+	width:  100%; 
+	height: 100%;
+	background-repeat: no-repeat;
+}
+
+
+div{
+	
+}
+.satu{
+	background-image:radial-gradient(farthest-side at 50% 100%,white,blue 120%);
+	margin: 0 auto;
+	width: 40%;
+ 	height: 60%; 
+}	
+
+.dua{
+	background-image:linear-gradient(to right,white,blue,white);
+	margin: 0 auto;
+	width: 40%;
+ 	height: 25%; 
+}
